@@ -1,5 +1,5 @@
 # Ex19 Palindrome Check Using Deque
-## DATE:
+## DATE: 27/08/2026
 ## AIM:
 To design a program that checks whether a given message is a palindrome by removing all non-alphanumeric characters, converting all characters to lowercase, and using a deque data structure for comparison.
 
@@ -57,7 +57,8 @@ class PalindromeDeque {
 ```
 
 ## Output:
-![Uploading image.png…]()
+
+<img width="433" height="282" alt="image" src="https://github.com/user-attachments/assets/9f956f64-3434-41eb-8543-ad67e221477e" />
 
 
 
