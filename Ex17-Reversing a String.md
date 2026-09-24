@@ -1,5 +1,5 @@
 # Ex17 Reversing a String Using Stack Data Structure
-## DATE:
+## DATE: 27/08/2026
 ## AIM:
 To write a Java program that reverses an input string using a stack, without using built-in reverse functions.
 
@@ -47,8 +47,8 @@ class ReverseStringStack {
 ```
 
 ## Output:
-<img width="214" height="72" alt="image" src="https://github.com/user-attachments/assets/91a6e4d1-4a95-475b-87f1-1db47a3634a3" />
 
+<img width="381" height="285" alt="image" src="https://github.com/user-attachments/assets/c1d6d664-b32d-45cc-a2b8-fa4e777a0b75" />
 
 
 ## Result:
