@@ -1,5 +1,5 @@
 # Ex16 Check for Balanced Parentheses Using Stack
-## DATE:
+## DATE: 27/08/2026
 ## AIM:
 To write a Java program that verifies whether the parentheses (brackets) in an input string are balanced — meaning each opening bracket (, {, [ has a corresponding and correctly ordered closing bracket ), }, ].
 
@@ -72,7 +72,10 @@ class BalancedParentheses {
 ```
 
 ## Output:
-![Uploading image.png…]()
+
+<img width="410" height="312" alt="image" src="https://github.com/user-attachments/assets/13758d56-df4b-4bfa-b910-1ecb6f3b24de" />
+
+
 
 
 
