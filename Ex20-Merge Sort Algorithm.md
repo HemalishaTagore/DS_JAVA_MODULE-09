@@ -1,5 +1,5 @@
 # Ex20 Sorting an Array using Merge Sort Algorithm
-## DATE:
+## DATE: 27/08/2026
 ## AIM:
 To design a program that sorts a given array of integers in ascending order without using built-in sorting functions, achieving O(n log n) time complexity and minimal space usage.
 ## Algorithm
@@ -92,9 +92,8 @@ class MergeSort {
 
 ## Output:
 
+<img width="583" height="326" alt="image" src="https://github.com/user-attachments/assets/31d76635-4883-4816-bd0b-a5e2208ff578" />
 
-
-<img width="320" height="277" alt="image" src="https://github.com/user-attachments/assets/f71902be-ae9f-4664-b491-93cb3a5da0c5" />
 
 
 ## Result:
